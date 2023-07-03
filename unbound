@@ -2,6 +2,7 @@
 [
 {
     "Name": "VOLUME 3 PATCH",
+    "Icon": "https://raw.githubusercontent.com/ios7jbpro/teamfilesdatabase/main/store/lawnchair.jpg",
     "Desc": "NFS Fam, as you are now aware Vol 3 is on its way to you and not only do we have some sweet new features but there’s a s**t load of fixes, improvements and quality of life updates for you. Let’s jump right in.
 
 - - NEW FEATURES - -
@@ -26,7 +27,6 @@ Added support for AMD FSR2 2.2
 Added support for Intel XESS 1.1
 Improved CPU Performance
 Deluxe edition players are now awarded $250000 per volume",
-    "Icon": "https://raw.githubusercontent.com/ios7jbpro/teamfilesdatabase/main/store/lawnchair.jpg",
     "patch": "3"
   }
 ]
