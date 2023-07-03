@@ -1,5 +1,13 @@
 [
 {
+    "Name": "NISSAN SKYLINE EA PLAY",
+    "Image": "https://raw.githubusercontent.com/ios7jbpro/jsonappdatabases/main/nfsvol3.jpg",
+    "Desc": "Join EA Play to make your games more rewarding with access to great player benefits and a library of top titles. Members get more from your game including rewards in Need for Speed Unbound. And when it’s time to find your next favorite game, we’ve got you covered with an ever-expanding library of our fan-favorite series and premium games. You can even try out select new release games for up to 10 hours of playtime with no commitment. If you decide to buy, your saved progress will carry over, so you can continue where you left off. Our members also save on purchases of EA digital content, with a 10% member discount. Letting you save on full games, points packs, and DLC. Find out more about upcoming EA Play benefits at https://store.steampowered.com/subscriptions/ea or follow us on Twitter @eaplay!
+
+*CONDITIONS, LIMITATIONS AND EXCLUSIONS APPLY. SEE https://tos.ea.com/legalapp/eaplay/US/en/PC/ FOR DETAILS.",
+    "patch": "3"
+  },
+{
     "Name": "VOLUME 3 PATCH",
     "Image": "https://raw.githubusercontent.com/ios7jbpro/jsonappdatabases/main/nfsvol3.jpg",
     "Desc": "NFS Fam, as you are now aware Vol 3 is on its way to you and not only do we have some sweet new features but there’s a s**t load of fixes, improvements and quality of life updates for you. Let’s jump right in.
@@ -26,6 +34,17 @@ Added support for AMD FSR2 2.2
 Added support for Intel XESS 1.1
 Improved CPU Performance
 Deluxe edition players are now awarded $250000 per volume",
+    "patch": "3"
+  },
+{
+    "Name": "REVEAL OF VOLUME 3",
+    "Image": "https://raw.githubusercontent.com/ios7jbpro/jsonappdatabases/main/nfsvol3.jpg",
+    "Desc": "LINKUP, RANK UP, GEAR UP
+Get ready to work together to crush intense stunt-based challenges against the clock, as Need for Speed™ Unbound Vol 3 (arriving June 20, 2023) brings new ways to earn XP and Bank.
+
+Elevate your style and rank up with Speed Pass, a new system rewarding progression with 75 free cosmetics and customizations, and show the streets what you’re about with new premium content in the Store including the mecha-themed Robojets Swag Pack, a Legendary Custom Ford Mustang GT (2015) with a 10-level Speed Pass boost, and a Vol 3 Customs Pack*.
+
+Get your first look at the new Chat Wheel that gives you new ways to communicate quickly with the Lakeshore community, the Daily and Weekly Challenges you’ll complete to rank up and grab the goods you need to light up the streets with your style, and more!",
     "patch": "3"
   }
 ]
